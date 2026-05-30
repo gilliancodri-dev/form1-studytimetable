@@ -1,4 +1,4 @@
-# 📚 My Study Schedule App
+ # 📚 My Study Schedule App
 
 A personalised exam prep app with a character dress-up wardrobe and coin reward system.
 
